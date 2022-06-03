@@ -1,0 +1,29 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color:#ffb703;
+}
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/border */
+#one {
+  border-style: solid;
+  border-color: blueviolet;
+  border-width: 5px;
+}
+
+#two {
+  border-style: dotted;
+  border-color: #e76f51;
+  border-left-width: 2px;
+  background-color: blue;
+  border-radius: 20%;
+}
+
+
+#three {
+  background-color: #283618;
+  border:4px solid black;
+  border-left-style: solid;
+  border-radius: 10px;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/padding */
