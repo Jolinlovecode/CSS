@@ -1,0 +1,14 @@
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+section {
+  width: 80%;
+  height: 800px;
+  background-image: url("https://image.shutterstock.com/z/stock-photo-moving-water-with-droplets-in-studio-with-white-background-spash-1937972371.jpg");
+  background-size: cover;
+  background-position: top;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 100px;
+  color: white;
+}
